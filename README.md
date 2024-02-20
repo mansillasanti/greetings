@@ -5,7 +5,7 @@ Este paquete proporciona una forma simple de obtener saludos personalizados en G
 ## Instalacion
 Ejecuta el siguiente comando para instalar el paquete:
 ```bash
-go get -u github.com/mansillasantiago/greetings
+go get -u github.com/mansillasanti/greetings
 ```
 
 ## Uso
